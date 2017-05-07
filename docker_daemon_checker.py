@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 # Docker Daemon Misconfiguration Check/Exploit
+# Not sure why I didn't just do it in bash...
 # Author: Jordan Rodgers (com6056@gmail.com)
-
 
 import argparse
 import socket
